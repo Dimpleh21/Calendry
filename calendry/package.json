@@ -1,0 +1,25 @@
+{
+  "name": "calendry",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "next": "15.3.1",
+    "react": "^19.0.0",
+    "react-big-calendar": "^1.18.0",
+    "react-calendar": "^5.1.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-modal": "^3.16.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
